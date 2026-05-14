@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Omar Zaeda, a dedicated junior web developer with a strong foundation in HTML, CSS, Tailwind CSS, and JavaScript. I build responsive, user-friendly websites and enjoy turning ideas into functional digital experiences.</h2>
+<h2 align="left">Hi, I'm Omar Zaeda, a dedicated web developer with a strong foundation in HTML, CSS, Tailwind CSS, and JavaScript. I build responsive, user-friendly websites and enjoy turning ideas into functional digital experiences.</h2>
 
 ###
 
